@@ -1,5 +1,8 @@
 <?php
 // $Id: captcha.php 1525 2008-04-30 13:11:48Z phppp $
+// _LANGCODE: zh_cn
+// _CHARSET : UTF-8
+// Translator: XOOPSCHINA Translation Team, Tgwoo 修订
 define("_CAPTCHA_CAPTION", "确认码");
 define("_CAPTCHA_INVALID_CODE", "无效的确认码！");
 define("_CAPTCHA_TOOMANYATTEMPTS", "您错误次数太多！");

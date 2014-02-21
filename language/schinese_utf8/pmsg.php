@@ -1,5 +1,8 @@
 <?php
 // $Id: pmsg.php 2 2005-11-02 18:23:29Z skalpa $
+// _LANGCODE: zh_cn
+// _CHARSET : UTF-8
+// Translator: XOOPSCHINA Translation Team, Tgwoo 修订
 //%%%%%%	File Name readpmsg.php 	%%%%%
 define("_PM_DELETED","您的短信已经删除。");
 define("_PM_PRIVATEMESSAGE","会员信箱");

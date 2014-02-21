@@ -16,6 +16,10 @@
  * @since           2.3.0
  * @author          Taiwen Jiang <phppp@users.sourceforge.net>
  * @version         $Id: formdhtmltextarea.php 1782 2008-05-26 05:04:38Z phppp $
+ * _LANGCODE: zh_cn
+ * _CHARSET : UTF-8
+ * Translator: XOOPSCHINA Translation Team, Tgwoo 修订
+
  */
 
 /**

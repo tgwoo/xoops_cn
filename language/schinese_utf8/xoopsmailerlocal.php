@@ -2,7 +2,9 @@
 /**
  * Localize the mail functions
  *
- * The English localization is solely for demonstration
+ * _LANGCODE: zh_cn
+ * _CHARSET : UTF-8
+ * Translator: XOOPSCHINA Translation Team, Tgwoo 修订
  */
 // Do not change the class name
 class XoopsMailerLocal extends XoopsMailer

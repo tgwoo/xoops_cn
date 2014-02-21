@@ -2,7 +2,7 @@
 // $Id: user.php 2411 2008-11-14 21:01:07Z julionc $
 // _LANGCODE: zh_cn
 // _CHARSET : UTF-8
-// Translator: XOOPSCHINA Translation Team
+// Translator: XOOPSCHINA Translation Team, Tgwoo 修订
 //%%%%%%		File Name user.php 		%%%%%
 define('_US_NOTREGISTERED','还没注册？请<a href="register.php">点击此处注册</a>。');
 define('_US_LOSTPASSWORD','取回密码');

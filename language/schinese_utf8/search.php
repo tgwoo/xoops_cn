@@ -1,5 +1,8 @@
 <?php
 // $Id: search.php 1529 2008-05-01 08:14:55Z phppp $
+// _LANGCODE: zh_cn
+// _CHARSET : UTF-8
+// Translator: XOOPSCHINA Translation Team, Tgwoo 修订
 //%%%%%%	File Name search.php 	%%%%%
 define("_SR_SEARCH","搜索");
 define("_SR_PLZENTER","请输入必填项目。");

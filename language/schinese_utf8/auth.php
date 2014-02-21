@@ -1,5 +1,8 @@
 <?php
 // $Id: $
+// _LANGCODE: cn
+// _CHARSET : UTF-8
+// Translator: XOOPSCHINA Translation Team, Tgwoo 修订
 //%%%%%%		File Name auth.php 		%%%%%
 
 define('_AUTH_MSG_AUTH_METHOD',"使用 %s 认证方法");

@@ -1,9 +1,9 @@
 <?php
 // $Id: admin.php 2768 2009-02-05 02:40:31Z phppp $
-// _LANGCODE: en
+// _LANGCODE: cn
 // _CHARSET : UTF-8
-// Translator: XOOPSCHINA Translation Team
-//%%%%%%	File Name  admin.php 	%%%%%
+// Translator: XOOPSCHINA Translation Team, Tgwoo 修订
+// %%%%%%	File Name  admin.php 	%%%%%
 define("_AD_NORIGHT","您没有权限进入管理区");
 define("_AD_ACTION","操作");
 define("_AD_EDIT","编辑");

@@ -1,5 +1,8 @@
 <?php
 // $Id: timezone.php 1217 2008-01-01 17:04:41Z phppp $
+// _LANGCODE: zh_cn
+// _CHARSET : UTF-8
+// Translator: XOOPSCHINA Translation Team, Tgwoo 修订
 //%%%%%		Time Zone	%%%%
 define("_TZ_GMTM12", "(GMT-12:00) 国际换日线以西、瓜加林岛");
 define("_TZ_GMTM11", "(GMT-11:00) 中途岛、萨摩亚");

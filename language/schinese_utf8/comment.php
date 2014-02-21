@@ -1,5 +1,8 @@
 <?php
 // $Id: comment.php 507 2006-05-26 sinoer $
+// _LANGCODE: zh_cn
+// _CHARSET : UTF-8
+// Translator: XOOPSCHINA Translation Team, Tgwoo 修订
 define('_CM_TITLE','标题');
 define('_CM_MESSAGE','内容');
 define('_CM_DOSMILEY','使用表情图');

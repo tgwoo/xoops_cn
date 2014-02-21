@@ -1,7 +1,8 @@
 <?php
 // $Id: notification.php 1530 2008-05-01 09:22:47Z phppp $
-
-// RMV-NOTIFY
+// _LANGCODE: zh_cn
+// _CHARSET : UTF-8
+// Translator: XOOPSCHINA Translation Team, Tgwoo 修订
 
 // Text for various templates...
 

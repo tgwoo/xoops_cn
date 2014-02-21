@@ -1,5 +1,8 @@
 <?php
 // $Id$
+// _LANGCODE: zh_cn
+// _CHARSET : UTF-8
+// Translator: XOOPSCHINA Translation Team, Tgwoo 修订
 
 define("_OXYGEN_SYSOPTIONS","系统设定");
 define("_OXYGEN_INSTALLEDMODULES","已安装模组");

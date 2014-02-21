@@ -2,7 +2,7 @@
 // $Id: mail.php 1386 2008-03-23 03:26:06Z phppp $
 // _LANGCODE: zh_cn	
 // _CHARSET : UTF-8
-// Translator: XOOPSCHINA Translation Team
+// Translator: XOOPSCHINA Translation Team, Tgwoo 修订
 
 define("_MAIL_MSGBODY", "短信息内容没有填写。");
 define("_MAIL_FAILOPTPL","打开模板文件失败。");

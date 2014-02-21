@@ -1,5 +1,8 @@
 <?php
 // $Id: global.php 1529 2008-05-01 08:14:55Z phppp $
+// _LANGCODE: zh_cn
+// _CHARSET : UTF-8
+// Translator: XOOPSCHINA Translation Team, Tgwoo 修订
 //%%%%%%	File Name mainfile.php 	%%%%%
 define("_PLEASEWAIT","请稍候");
 define("_FETCHING","载入页面...");

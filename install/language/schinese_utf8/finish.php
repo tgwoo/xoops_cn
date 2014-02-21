@@ -2,7 +2,8 @@
 // $Id: finish.php 2768 2009-02-05 02:40:31Z phppp $
 // _LANGCODE: zh_CN
 // _CHARSET : UTF-8
-// Translator: XOOPSCHINA Translation Team
+// Translator: XOOPSCHINA Translation Team, Tgwoo 修订
+
 
 $content .=
 "<h3>恭喜，网站安装成功！</h3>

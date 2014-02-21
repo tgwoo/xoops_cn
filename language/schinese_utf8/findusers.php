@@ -1,5 +1,8 @@
 <?php
 // $Id: findusers.php 1386 2008-03-23 03:26:06Z phppp $
+// _LANGCODE: zh_cn
+// _CHARSET : UTF-8
+// Translator: XOOPSCHINA Translation Team, Tgwoo 修订
 
 define("_MA_USER_MORE", "更多用户");
 define("_MA_USER_REMOVE", "清除未选中的用户");

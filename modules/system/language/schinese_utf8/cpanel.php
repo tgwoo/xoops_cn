@@ -1,8 +1,8 @@
 <?php
     // $Id: cpanel.php 3317 2009-07-04 13:18:43Z trabis $
-    // _LANGCODE: tw
+    // _LANGCODE: zh_cn
     // _CHARSET : UTF-8
-    // Translator: 点两下电脑工作室 http://ck2tw.net/
+    // @translator	基于点两下电脑工作室 http://ck2tw.net/ 繁体中文版，Tgwoo 简体中文修订
     
     define("_MD_AM_VRSN", "版本");
     define("_MD_AM_FINDUSER", "查询使用者");

@@ -19,6 +19,9 @@
  * @author          Taiwen Jiang <phppp@users.sourceforge.net>
  * @version         $Id: locale.php 1530 2008-05-01 09:22:47Z phppp $
  * @todo            To be handled by i18n/l10n
+ * _LANGCODE: zh_cn
+ * _CHARSET : UTF-8
+ * Translator: XOOPSCHINA Translation Team, Tgwoo 修订
  */
 
 setlocale(LC_ALL, 'en_US');

@@ -1,8 +1,8 @@
 <?php
     // $Id: blocks.php 2411 2008-11-14 21:01:07Z julionc $
-    // _LANGCODE: tw
+    // _LANGCODE: zh_cn
     // _CHARSET : UTF-8
-    // Translator: 点两下电脑工作室 http://ck2tw.net/
+    // @translator	基于点两下电脑工作室 http://ck2tw.net/ 繁体中文版，Tgwoo 简体中文修订
     
     // Blocks
     define("_MB_SYSTEM_ADMENU","管理区");

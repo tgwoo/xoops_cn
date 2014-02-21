@@ -2,10 +2,10 @@
     /**
      * @copyright   The XOOPS Project http://sourceforge.net/projects/xoops/
      * @license     http://www.fsf.org/copyleft/gpl.html GNU public license
-     * _LANGCODE    tw
-     * _CHARSET     UTF-8
      * @version     $Id: admin.php 4251 2010-01-31 16:54:19Z forxoops $
-     * @translator	点两下电脑工作室 http://ck2tw.net/
+     * _LANGCODE: zh_cn
+     * _CHARSET : UTF-8
+     * @translator	基于点两下电脑工作室 http://ck2tw.net/ 繁体中文版，Tgwoo 简体中文修订
      */
     
     

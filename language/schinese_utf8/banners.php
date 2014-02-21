@@ -1,5 +1,8 @@
 <?php
 // $Id: $
+// _LANGCODE: zh_cn
+// _CHARSET : UTF-8
+// Translator: XOOPSCHINA Translation Team, Tgwoo 修订
 //%%%%%%		File Name banners.php 		%%%%%
 define('_BANNERS_LOGIN_TITLE',"广告统计");
 define('_BANNERS_LOGIN_LOGIN',"用户名：");

@@ -2,7 +2,9 @@
 // $Id: uploader.php 1386 2008-03-23 03:26:06Z phppp $
 // _LANGCODE: zh_cn
 // _CHARSET : UTF-8
-// Translator: XOOPSCHINA Translation Team
+// _LANGCODE: zh_cn
+// _CHARSET : UTF-8
+// Translator: XOOPSCHINA Translation Team, Tgwoo 修订
 
 define("_ER_UP_MIMETYPELOAD", "加载MIME类型定义错误"); 
 define("_ER_UP_FILENOTFOUND", "文件不存在"); 

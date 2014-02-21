@@ -1,5 +1,8 @@
 <?php
 // $Id: calendar.php 2 2005-11-02 18:23:29Z A.D.Horse Exp $
+// _LANGCODE: zh_cn
+// _CHARSET : UTF-8
+// Translator: XOOPSCHINA Translation Team, Tgwoo 修订
 //%%%%%		Time Zone	%%%%
 define("_CAL_SUNDAY", "星期日");
 define("_CAL_MONDAY", "星期一");

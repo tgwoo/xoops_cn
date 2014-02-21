@@ -1,5 +1,8 @@
 <?php
 // $Id: misc.php 2 2005-11-02 18:23:29Z skalpa $
+// _LANGCODE: zh_cn
+// _CHARSET : UTF-8
+// Translator: XOOPSCHINA Translation Team, Tgwoo 修订
 define("_MSC_YOURNAMEC","您的姓名：");
 define("_MSC_YOUREMAILC","您的邮件：");
 define("_MSC_FRIENDNAMEC","朋友的姓名：");

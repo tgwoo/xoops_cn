@@ -1,5 +1,8 @@
 <?php
 // $Id$
+// _LANGCODE: zh_cn
+// _CHARSET : UTF-8
+// Translator: XOOPSCHINA Translation Team, Tgwoo 修订
 
 $menu = array();
 
