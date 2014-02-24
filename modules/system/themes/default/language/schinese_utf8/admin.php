@@ -5,11 +5,11 @@
 // Translator: XOOPSCHINA Translation Team, Tgwoo 修订
 
 define("_OXYGEN_SYSOPTIONS","系统设定");
-define("_OXYGEN_INSTALLEDMODULES","已安装模组");
+define("_OXYGEN_INSTALLEDMODULES","已安装模块");
 
 define("_OXYGEN_XOOPSTHEMES","XOOPS 主题");
-define("_OXYGEN_XOOPSMODULES","XOOPS 模组");
-define("_OXYGEN_INTERESTSITES","连结");
+define("_OXYGEN_XOOPSMODULES","XOOPS 模块");
+define("_OXYGEN_INTERESTSITES","链接");
 define("_OXYGEN_LOCALSUPPORT","本地支持");
 define("_OXYGEN_NEWS","XOOPS 最新消息");
 define("_OXYGEN_WEBSITE","社群网站");
@@ -23,16 +23,16 @@ define("_OXYGEN_Server_API","Server API");
 define("_OXYGEN_OS","作业系统");
 define("_OXYGEN_ABOUT","关于 XOOPS");
 define("_OXYGEN_ABOUT_TEXT",'请详阅 <a href="http://www.xoops.org/modules/wfchannel/" rel="external">关于 XOOPS</a> 以了解更多讯息。');
-define("_OXYGEN_XOOPS_LINKS","XOOPS 连结");
+define("_OXYGEN_XOOPS_LINKS","XOOPS 链接");
 
-define("_OXYGEN_XOOPSPROJECT","XOOPS 计画");
+define("_OXYGEN_XOOPSPROJECT","XOOPS 计划");
 define("_OXYGEN_XOOPSCORE","XOOPS 核心");
 define("_OXYGEN_XOOPSTHEME","XOOPS 主题");
 define("_OXYGEN_XOOPSWIKI","XOOPS Wiki");
 define("_OXYGEN_XOOPSBOOKS","XOOPS 书籍推荐");
-define("_OXYGEN_NEWMODULE","新进模组");
+define("_OXYGEN_NEWMODULE","新进模块");
 define("_OXYGEN_XOOPSFAQ","XOOPS FAQ");
-define("_OXYGEN_CODESVN","原始码（Code SVN）");
+define("_OXYGEN_CODESVN","原始代码（Code SVN）");
 define("_OXYGEN_REPORTBUG","Bug报告");
 
 
@@ -60,10 +60,10 @@ define("_OXYGEN_UPTOP","到顶端");
 
 //Add help
 define("_OXYGEN_HELP_1","如何产生网站内容？");
-define("_OXYGEN_HELP_DESC_1",'为了製作网站内容，您得先安装一些模组来发布您的文章，例如：<a href="http://xoops.svn.sourceforge.net/viewvc/xoops/XoopsModules/fmcontent/trunk/?view=tar" rel="external">fmContent</a> 或是 <a href="https://sourceforge.net/projects/xoops/files/XOOPS%20Module%20Repository/XOOPS2/Content/XOOPS2.5_mod_content_1.4_kerkyra.zip/download" rel="external">Content</a> 模组，想要了解更多关于模组<a href="modules/system/help.php?mid=1&page=modulesadmin">请点选这里</a>。' );
+define("_OXYGEN_HELP_DESC_1",'为了制作网站内容，您得先安装一些模块来发布您的文章，例如：<a href="http://xoops.svn.sourceforge.net/viewvc/xoops/XoopsModules/fmcontent/trunk/?view=tar" rel="external">fmContent</a> 或是 <a href="https://sourceforge.net/projects/xoops/files/XOOPS%20Module%20Repository/XOOPS2/Content/XOOPS2.5_mod_content_1.4_kerkyra.zip/download" rel="external">Content</a> 模块，想要了解更多关于模块<a href="modules/system/help.php?mid=1&page=modulesadmin">请点选这里</a>。' );
 define("_OXYGEN_HELP_2","何谓「区块」");
-define("_OXYGEN_HELP_DESC_2",'所谓「区块」就是您在前台，看到的一小块一小块内容，整个前台画面即由区块所组成。区块随着模组而来，您可从后台的「区块」来管理之。此外，「自订区块」则可让您填入任何您想呈现的文字、插图或影像。要更进一步瞭解，可以<a href="modules/system/help.php?mid=1&page=blocksadmin">点选这里</a>。');
-define("_OXYGEN_HELP_3","如何找到更多的协助？");
-define("_OXYGEN_HELP_DESC_3",'加如我学要协助或资讯来使用XOOPS的话，您可以使用系统模组中的<a href="modules/system/help.php">协助页面</a>或者造访<a href="http://www.xoops.org/modules/xoopspartners/" rel="external">XOOPS 全球支持网站</a。>');
+define("_OXYGEN_HELP_DESC_2",'所谓「区块」就是您在前台，看到的一小块一小块内容，整个前台画面即由区块所组成。区块随着模块而来，您可从后台的「区块」来管理之。此外，「自订区块」则可让您填入任何您想呈现的文字、插图或影像。要更进一步瞭解，可以<a href="modules/system/help.php?mid=1&page=blocksadmin">点选这里</a>。');
+define("_OXYGEN_HELP_3","如何找到更多的帮助？");
+define("_OXYGEN_HELP_DESC_3",'假如需要更多帮助或信息来使用XOOPS的话，您可以使用系统模块中的<a href="modules/system/help.php">帮助页面</a>或者造访<a href="http://www.xoops.org/modules/xoopspartners/" rel="external">XOOPS 全球支持网站</a。>');
 
 ?>

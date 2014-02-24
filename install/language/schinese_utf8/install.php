@@ -17,7 +17,9 @@
 // _LANGCODE: zh_CN
 // _CHARSET : UTF-8
 // Translator: XOOPSCHINA Translation Team
-
+define('LICENSE_NOT_WRITEABLE','License is %s . <br/><font style="colour:#ff0000">Make ../include/license.php Writable</font>');
+define('LICENSE_IS_WRITEABLE','License is %s');
+    
 define( "SHOW_HIDE_HELP", "显示/隐藏 帮助信息" );
 
 // Configuration check page

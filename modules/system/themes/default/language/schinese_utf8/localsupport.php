@@ -17,7 +17,7 @@ $menu[] = array(
 
 $menu[] = array(
                 'link'      => 'http://xoops.tn.edu.tw',
-                'title'     => 'XOOPS 正体中文延伸计画',
+                'title'     => 'XOOPS 正体中文延伸计划',
                 'absolute'  => 1,
                 'icon'      => XOOPS_URL . '/modules/system/class/gui/oxygen/images/xoops.png'
                 );

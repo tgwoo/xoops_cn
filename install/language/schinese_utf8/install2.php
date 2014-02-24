@@ -7,11 +7,20 @@ define("_INSTALL_REGUSERSD","会员群组");
 define("_INSTALL_ANONUSERS","游客");
 define("_INSTALL_ANONUSERSD","游客群组");
 
+/**
+* New Group types
+*/
+define('_INSTALL_BANNEDUSERS','广告用户');
+define('_INSTALL_BANNEDUSERSD','广告用户组.');
+define('_INSTALL_MODERATORUSERS','Moderators');
+define('_INSTALL_MODERATORUSERSD','These are Moderators for your website');
+define('_INSTALL_SUBMITTERUSERS','发布用户');
+define('_INSTALL_SUBMITTERUSERSD','这个组中的用户可以发布文章到网站.');
+define('_INSTALL_DEVELOPEUSERS','开发用户');
+define('_INSTALL_DEVELOPEUSERSD','这个组的用户有开发权限，并且可以看到开发调试信息.');
+
 define("_INSTALL_L165","系统维护中，请稍后访问。");
-
-
 define("_INSTALL_ANON","游客");
-
 define("_INSTALL_DISCLMR", "请仔细阅读并遵守下列注册条款：
 
 1、注册会员必须遵守中华人民共和国的各项法律法规；
